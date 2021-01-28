@@ -1,0 +1,1 @@
+# quarkus-cassandra-quick-start
